@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DiewRPZw/6M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marcu\\source\\repos\\ApuRealEstate\\UtilitiesLib\\UtilitiesLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcu\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\marcu\\.nuget\\packages\\system.drawing.common\\8.0.10\\system.drawing.common.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
