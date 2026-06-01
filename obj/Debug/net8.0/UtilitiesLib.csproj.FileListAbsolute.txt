@@ -33,3 +33,16 @@ C:\Users\marcu\source\repos\ApuRealEstate\UtilitiesLib\obj\Debug\net8.0\Utilitie
 C:\Users\marcu\source\repos\ApuRealEstate\UtilitiesLib\obj\Debug\net8.0\refint\UtilitiesLib.dll
 C:\Users\marcu\source\repos\ApuRealEstate\UtilitiesLib\obj\Debug\net8.0\UtilitiesLib.pdb
 C:\Users\marcu\source\repos\ApuRealEstate\UtilitiesLib\obj\Debug\net8.0\ref\UtilitiesLib.dll
+C:\Users\Marcus\source\repos\UtilitiesLib\bin\Debug\net8.0\UtilitiesLib.deps.json
+C:\Users\Marcus\source\repos\UtilitiesLib\bin\Debug\net8.0\UtilitiesLib.dll
+C:\Users\Marcus\source\repos\UtilitiesLib\bin\Debug\net8.0\UtilitiesLib.pdb
+C:\Users\Marcus\source\repos\UtilitiesLib\obj\Debug\net8.0\UtilitiesLib.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\UtilitiesLib\obj\Debug\net8.0\UtilitiesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\UtilitiesLib\obj\Debug\net8.0\UtilitiesLib.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\UtilitiesLib\obj\Debug\net8.0\UtilitiesLib.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\UtilitiesLib\obj\Debug\net8.0\UtilitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\UtilitiesLib\obj\Debug\net8.0\UtilitiesLib.sourcelink.json
+C:\Users\Marcus\source\repos\UtilitiesLib\obj\Debug\net8.0\UtilitiesLib.dll
+C:\Users\Marcus\source\repos\UtilitiesLib\obj\Debug\net8.0\refint\UtilitiesLib.dll
+C:\Users\Marcus\source\repos\UtilitiesLib\obj\Debug\net8.0\UtilitiesLib.pdb
+C:\Users\Marcus\source\repos\UtilitiesLib\obj\Debug\net8.0\ref\UtilitiesLib.dll
